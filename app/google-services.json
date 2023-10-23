@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893176405635",
+    "project_id": "cats-ae70e",
+    "storage_bucket": "cats-ae70e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893176405635:android:d83e80fa99c94862dac5b6",
+        "android_client_info": {
+          "package_name": "com.example.cat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr21DbV-X3NQcDeoCzIsx1F7KAVZvTF1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
